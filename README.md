@@ -1,22 +1,13 @@
-# Authors
-* Maureen Murugi
-* Gerald Kamau
-* Jackson Kahono
-* Zipporah Kwamboka
-* Martin Kamau
-* Esther Wanjiku
-* Shaniz Nyawira
+
 
 # Table of contents
 1. [Authors](#contributers)
 2. [Description](#Description)
 3. [Features](Features)
 4. [Requirements](#Requirements)
-5. [Installation process](#Installation)
-6. [Technologies used](#Technologies)
-7. [Live links](#Links)
-8. [Contact Information](#Contact-Information)
-9. [Licence Information](#License)
+5. [Technologies used](#Technologies)
+6. [Live links](#Links)
+7. [Licence Information](#License)
 # Description
 >  Our system introduces a bus system where one can access the bus routes, with standardized bus fares and different peak points from the comfort of  your home on your device.  Users can easily see the available buses, the prices, and the specific routes to the CBD.
  This will allow users not to waste time in bus stages waiting for the bus, because they are sure of the bus they will board and the exact time and the bus fare, to and from the Thika superhighway to town.
@@ -31,8 +22,7 @@ As a user of the application, you will be able to;
 User must have access to a computer.
 User must be connected to the internet.
 # Installation Process
-Clone the repository: git clone 'https://git@github.com:MaureenMurugi/BRT.git', 'https://git@github.com:Jackson-Kahono/Bus-Transit-Service.git'
-Unzip the cloned files in a folder of choice.
+
 # Technologies Used
 1. Ruby on Rails - as the dynamic language to interact with ActiveRecords and backend.
 2. React JS - Structure to the web application and interaction with the users.
@@ -41,15 +31,7 @@ Unzip the cloned files in a folder of choice.
 > 'https://bus-transit-services.vercel.app/'
 # Live Back-end link
 > 'https://modern-burst-production.up.railway.app/'
-# Authors Info
-github:
->'https://github.com/MaureenMurugi'
->'https://github.com/Jackson-Kahono'
->'https://github.com/123ZOKzok'
->'https://github.com/EstherWMaina'
->'https://github.com/Gerald-ux-ux'
->'https://github.com/Ki-muh'
->'https://github.com/ShanizNyawira'
+
 # License
 MIT License
 Copyright [2022][Group 2]
