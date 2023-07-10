@@ -17,11 +17,11 @@ const Navbar = () => {
             AboutUs
           </CustomLink>
         </li>
-        <li>
+        {/* <li>
           <CustomLink to="/login" className="NavLinksa">
             Admin side
           </CustomLink>
-        </li>
+        </li> */}
         <li>
           <Link to="/signup" className="NavLinksb">
             Sign Up
